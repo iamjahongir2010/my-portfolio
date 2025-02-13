@@ -1,4 +1,10 @@
-/* .Home{
-    background: url(../../../assets/home/background.html);
+.Home {
+    background: url('../../../assets/home/background.jpeg') no-repeat center center;
     background-size: cover;
-} */
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
