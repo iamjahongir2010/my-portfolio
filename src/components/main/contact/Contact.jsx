@@ -7,7 +7,7 @@ function Contact() {
   return (
     <div className={style.Contact}>
         <h1>Contacts</h1>
-        <h3>Свяжитесь со мной по почте или через соцсети:</h3>
+        <h3>Contact me by mail or social media:</h3>
         <Row className="justify-content-center mt-3">
           <Col xs="auto">
             <Button variant="danger" href="mailto:i.jaha2010@mail.ru">Email</Button>
