@@ -7,10 +7,39 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    Table{
+    text-align: center;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.Table {
+    width: 33%;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+@media (max-width: 480px) {
+    .Table {
+        width: 95%;
+    }
+}
+
+@media (max-width: 768px) {
+    .Table {
+        width: 80%;
+    }
+}
+
+@media (min-width: 769px) {
+    .Table {
+        width: 45%;
+    }
+}
+
+
+@media (min-width: 1024px) {
+    .Table {
         width: 33%;
-        text-align: center;
-        border-radius: 10px;
-        overflow: hidden;
     }
 }

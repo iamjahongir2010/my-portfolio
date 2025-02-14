@@ -6,8 +6,7 @@ function About() {
   return (
     <div className={style.About}>
       <h1>About me</h1>
-      <h3>Я увлекаюсь веб-разработкой, работаю с современными</h3>
-      <h3> технологиями, такими как React, Node.js, Bootstrap.</h3>
+      <h3>Я увлекаюсь веб-разработкой, работаю с современными технологиями, такими как React, Node.js, Bootstrap.</h3>
         <Table striped variant='dark' className={style.Table}>
           <tbody>
             <tr>
