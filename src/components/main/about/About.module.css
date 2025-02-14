@@ -1,0 +1,16 @@
+.About {
+    background-color: #0c0e11;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    Table{
+        width: 33%;
+        text-align: center;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+}

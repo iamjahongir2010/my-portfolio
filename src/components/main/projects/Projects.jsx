@@ -9,7 +9,7 @@ import Portfolio from '../../../assets/img/projects/portfolio.png'
 import Cornelia from '../../../assets/img/projects/cornelia.png'
 function Projects() {
   return (
-    <div className={style.pProjects}>
+    <div className={style.Projects}>
       <Container>
         <Row xs={1} md={2} className="g-4">
           <Col>
