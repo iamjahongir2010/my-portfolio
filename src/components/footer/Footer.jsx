@@ -2,7 +2,9 @@ import React from 'react'
 import style from './Footer.module.css'
 function Footer() {
   return (
-    <div>Footer</div>
+    <div className={style.Footer}>
+      <p>&copy; 2025 Jahongir. All rights reserved.</p>
+    </div>
   )
 }
 
