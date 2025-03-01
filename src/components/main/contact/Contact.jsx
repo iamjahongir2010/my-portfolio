@@ -1,7 +1,7 @@
 import React from "react";
 import style from "./Contact.module.css";
 import Button from "react-bootstrap/Button";
-import { Col, Row, Container } from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
 
 function Contact() {
   return (

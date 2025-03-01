@@ -1,7 +1,5 @@
 import React from 'react'
 import style from './Home.module.css'
-import Button from 'react-bootstrap/Button';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 function Home() {
   return (
     <div className={style.Home}>

@@ -1,7 +1,5 @@
 import React from 'react'
 import style from './About.module.css'
-import Table from 'react-bootstrap/Table';
-import { Container } from 'react-bootstrap';
 function About() {
   return (
     <div className={style.About}>
