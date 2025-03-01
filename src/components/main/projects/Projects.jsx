@@ -45,19 +45,6 @@ function Projects() {
               </Card.Body>
             </Card>
           </Col>
-          <Col>
-            <Card bg="dark" text='white' className='mt-3 mb-3'>
-              <Card.Img variant="top" src={Shucran} />
-              <Card.Body>
-                <Card.Title>Card title</Card.Title>
-                <Card.Text>
-                  This is a longer card with supporting text below as a natural
-                  lead-in to additional content. This content is a little bit
-                  longer.
-                </Card.Text>
-              </Card.Body>
-            </Card>
-          </Col>
 
         </Row>
       </Container>
