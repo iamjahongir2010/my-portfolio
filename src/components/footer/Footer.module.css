@@ -1,13 +1,10 @@
-.Footer{
-    background-color: #333333;
-    background-size: cover;
-    color: white;
+.Footer {
+    background-color: #333333; 
+    color: white; 
     height: 30vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding-right: 10%;
-    padding-left: 10%;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
 }
