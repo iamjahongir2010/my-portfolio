@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "build": "react-scripts build && ren build dist",
+    "build": "react-scripts build && mv build dist",
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
