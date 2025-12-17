@@ -16,7 +16,7 @@ function Contact() {
           <Button variant="dark " href="https://github.com/iamjahongir2010">GitHub</Button>
         </Col>
         <Col xs="auto">
-          <Button variant="info" href="https://t.me/real1z">Telegram</Button>
+          <Button variant="info" href="https://t.me/noxayro">Telegram</Button>
         </Col>
       </Row>
     </div>
